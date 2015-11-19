@@ -1,6 +1,6 @@
 <h1> How to Use Git with Python : Version Control for Code </h1>
 Thanks for signing up! Hope you have a great training session with both this great Tools. 
-Please Visit To<a href="https://github.com/arkoneogy/mytutorials/wiki/Setting-up-a-fork" target="_blank"><b>Set up a Fork of Repo</b></a>
+Please Visit Instruction on how to : <a href="https://github.com/arkoneogy/mytutorials/wiki/Setting-up-a-fork" target="_blank"><b>Set up a Fork of a Repository</b></a>
 
 ## Course Syllabus
 
