@@ -18,7 +18,7 @@ Familiarity with a Unix-style command line will be important in this course.  Th
 
 ## Download Git
 
-Visit <a href="http://msysgit.github.io/" target="_blank">this page</a> and click Download.
+Visit <a href="https://git-for-windows.github.io" target="_blank">this page</a> and click Download.
 
 ## Run the Downloaded File
 
