@@ -1,3 +1,5 @@
+#this code covers how to write and work with functions in R
+
 library(data.table)
 
 dt.leftJoin= function (left, right, keys, retainOrder= F) 

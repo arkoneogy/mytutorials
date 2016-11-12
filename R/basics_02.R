@@ -1,7 +1,7 @@
 ## useful commands
 
 getwd()
-setwd(dir = "C:\\Users\\mganguly\\Desktop\\Temp")  
+setwd(dir = "C:\\Users\\aneogy\\Desktop")  
 rm()
 rm(list=ls())
 gc()
@@ -34,7 +34,7 @@ apply(airquality,1,sum)
 apply(airquality,2,sum)
 
 apply(mat,1,sum,na.rm=T)
-apply(mat,2,sum,na.rm=T)
+apply(airquality,2,sum,na.rm=T)
 
 
 ## lapply + sapply
